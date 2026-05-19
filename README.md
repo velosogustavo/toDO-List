@@ -4,20 +4,20 @@ Uma aplicação de gerenciamento de tarefas desenvolvida com foco em componentiz
 
 ## 🚀 Tecnologias Utilizadas
 
-*   **React 19**[cite: 4]
-*   **TypeScript**[cite: 4]
-*   **Tailwind CSS 4**[cite: 4, 12]
-*   **Class Variance Authority (CVA)**[cite: 4]
-*   **React Router 7**[cite: 4, 11]
-*   **usehooks-ts** (Local Storage)[cite: 4, 19]
+*   **React 19**
+*   **TypeScript**
+*   **Tailwind CSS 4**
+*   **Class Variance Authority (CVA)**
+*   **React Router 7**
+*   **usehooks-ts** (Local Storage)
 
 ## ✨ Funcionalidades
 
-*   Criação, edição e exclusão de tarefas[cite: 19, 25].
-*   Marcação de tarefas como concluídas[cite: 19, 25].
-*   Contagem dinâmica de tarefas totais e concluídas[cite: 20, 27].
-*   Persistência de dados automática utilizando o Local Storage[cite: 19].
-*   Rota separada (`/componentes`) funcionando como um catálogo visual das peças do sistema[cite: 11, 16].
+*   Criação, edição e exclusão de tarefas.
+*   Marcação de tarefas como concluídas.
+*   Contagem dinâmica de tarefas totais e concluídas.
+*   Persistência de dados automática utilizando o Local Storage.
+*   Rota separada (`/componentes`) funcionando como um catálogo visual das peças do sistema.
 
 ## 🛠️ Como rodar o projeto localmente
 
